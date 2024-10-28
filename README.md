@@ -9,5 +9,5 @@ A full-stack Employee Management System Application
 |Database | JPA-Hibernate, MySQL|
 |Client Build | npm|
 |Server Build | Maven|
-|API testing	| POSTMAN|
+|API testing	| Postman|
 |Tool | Intellj Idea/VSCode|
