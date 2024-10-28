@@ -1,2 +1,12 @@
 # EMS
-A full-stack web application (Employee Management System App) using Java 17, Spring Boot 3, Spring Data JPA, React JS 18, JavaScript, and MySQL database.
+A full-stack Employee Management System Application
+
+Components | Technology
+Frontend | BootStrap, React 18+
+Backend	| Spring Boot 3, Java 17+
+Security | Spring Security, SSL, Form, https, JWT
+Database | JPA-Hibernate, MySQL
+Client Build | npm
+Server Build | Maven
+API testing	| POSTMAN
+Tool | Intellj Idea/VSCode
